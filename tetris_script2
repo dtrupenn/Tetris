@@ -1,0 +1,6 @@
+clear
+reset
+as os os
+as tetris2 libc tetris2
+ld os
+ld tetris2

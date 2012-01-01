@@ -1,0 +1,2 @@
+Instructions:
+Run Pennsim in double buffer mode and then run tetris script by inputing to the Pennsim command prompt (script tetris_script.txt). For a guide on how to use PennSim go to: http://www.cis.upenn.edu/~milom/cse240-Fall06/pennsim/pennsim-guide.html
